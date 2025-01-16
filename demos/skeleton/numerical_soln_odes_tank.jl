@@ -51,31 +51,39 @@ md"height of tank"
 
 # ╔═╡ 42b4f36a-d164-411b-867d-849bf0b8da26
 
+
 # ╔═╡ e6bbe642-f899-43ad-8015-097a65415fe4
 md"top and bottom perimeter"
 
 # ╔═╡ 29f37729-12c1-45de-a13b-a71793683c0b
 
+
 # ╔═╡ aba01fa8-57dc-4373-b674-7cafd02ef22d
+
 
 # ╔═╡ dd438ccc-343c-4421-95af-a17796dc95e8
 md"top and bottom dimensions (approximate as a square)"
 
 # ╔═╡ 29f5ce09-b4ab-4c46-bdfc-80f146ca3474
 
+
 # ╔═╡ 151c5229-12bb-439e-8a35-1506184deaf3
+
 
 # ╔═╡ a14f2f7e-8e8a-4751-868a-df4efc0f98e4
 md"area of top and bottom bases (squares)"
 
 # ╔═╡ bbae97d5-71a3-4a96-912d-16e56ab19449
 
+
 # ╔═╡ 8aa9b532-bfe0-407e-8f58-0869bf88b2b6
+
 
 # ╔═╡ ee537c0a-7cab-4bc2-89bd-3db590b51172
 md"area of liquid, from a helicopter view, as a function of liquid level"
 
 # ╔═╡ eeffeefd-5d09-487d-8c62-d5c06fc5355c
+
 
 # ╔═╡ 3815c34f-60b5-4b03-8959-0cc8e822481a
 md"## parameter identification
@@ -90,16 +98,21 @@ conduct a quick experiment to identify the $c$ parameter.
 
 # ╔═╡ 22c9bf73-68fa-4b2c-8d7a-e3c63e084e10
 
+
 # ╔═╡ 988b38f2-56be-4ab7-8e96-6c89ef523c33
+
 
 # ╔═╡ c01e7bd2-9d31-4adc-95bb-75b64608e9df
 
+
 # ╔═╡ 7dd762b9-8505-4349-9c21-89b3d6117f60
+
 
 # ╔═╡ 03b5e719-ecff-47fc-8d6e-6c257cce898c
 # mean height during this experiment
 
 # ╔═╡ 34a53346-101c-4ed8-b0aa-63a5088f8622
+
 
 # ╔═╡ bcba0331-ae6b-493b-8a9c-763eb4b07426
 md"
@@ -123,9 +136,12 @@ where $\mathbf{p}$ is an optional vector of parameters we do not use here.
 
 # ╔═╡ a1bd034e-b160-4687-8bea-fe7bf8b44c12
 
+
 # ╔═╡ 4abecf6e-9404-4672-bdac-234e735ee817
 
+
 # ╔═╡ 2ba54ac2-6b75-4e59-9ad5-5997d1b7555c
+
 
 # ╔═╡ bc95d069-698e-4587-a03e-04c5ea27a9d7
 # DifferentialEquations.jl syntax
@@ -158,12 +174,13 @@ md"## comparison to experiment
 
 # ╔═╡ 5e6d8bd0-3a2a-4b3c-b44e-7c6a2f8b9f4a
 
+
 # ╔═╡ e48cc019-a9e5-4a39-85df-81742d0fbb81
-length(Δts)
+
 
 # ╔═╡ ca687109-e558-4329-9ba9-5045fc5ee455
 exp_data = DataFrame(
-	"h [cm]" => []
+	"h [cm]" => [],
 	"t [s]" => []
 )
 
