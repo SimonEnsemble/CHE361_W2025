@@ -1,5 +1,3 @@
-# CHE 361 W2025
+# CHE 361 W2025: Process Dynamics & Simulation
 
-contains demos and studios for CHE 361 W2025 at Oregon State University.
-
-each `.jl` file is a Pluto notebook.
+for completed demos, see [here](https://simonensemble.github.io/CHE361_W2025/).
