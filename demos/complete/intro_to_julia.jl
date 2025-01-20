@@ -77,7 +77,7 @@ md"
 
 $y(t)=e^{-t}\sin(10 t)$ 
 
-$y(t)=e^{-2t}\sin(5 t)$ 
+$z(t)=e^{-2t}\sin(5 t)$ 
 
 over the domain $t\in[0, 6]$. include an x- label on your plot and a legend to indicate which function is which. 
 
