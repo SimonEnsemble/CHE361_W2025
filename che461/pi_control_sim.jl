@@ -200,7 +200,7 @@ end
 md"🍕 for numerical integration to well-approximate the true integral, the spacing $\Delta t$ needs to be small. pass `nb_time_points=400` into your `simulate()` call in `sim_closed_loop` to ensure you have high resolution."
 
 # ╔═╡ bbd4de84-4f94-480e-a32a-3fae0648b513
-md"🍕 compute the ITAE for each PI-controller setting above. according to the ITAE, which controller setting is the best?"
+md"🍕 compute and print the ITAE for each PI-controller setting above. according to the ITAE, which controller setting is the best?"
 
 # ╔═╡ dd17e6f3-26fb-4566-89ea-97163b054a85
 
