@@ -86,6 +86,12 @@ end
 # ╔═╡ 604fe9ed-cfd0-4475-b3a5-e8095ea2f9af
 is_solved_and_feasible(model)
 
+# ╔═╡ b7a0fedb-08e6-4556-9d50-52c163f5c451
+md"🍷 [1 pt] print the optimal volume of Syrah and volume of Grenache to include in the blend."
+
+# ╔═╡ a437bbba-d0c8-4e85-9f5c-67ce6ee4c79b
+
+
 # ╔═╡ f8d24f48-f907-4d7c-9166-9b97831cec30
 md"🍷 [2 pt] visualize the optimal wine blend with a bar plot. include x- and y-axis labels with units and color the bars `darkred` for a wine theme."
 
@@ -118,6 +124,8 @@ md"🍷 [2 pt] since our design space is two dimensional, we can visualize this 
 # ╟─a1ca6688-ed64-4758-9828-c9dc8734f9a4
 # ╠═643a18d3-69fc-4560-8d17-51f861b6e9fc
 # ╠═604fe9ed-cfd0-4475-b3a5-e8095ea2f9af
+# ╟─b7a0fedb-08e6-4556-9d50-52c163f5c451
+# ╠═a437bbba-d0c8-4e85-9f5c-67ce6ee4c79b
 # ╟─f8d24f48-f907-4d7c-9166-9b97831cec30
 # ╠═94bb6e34-6e2c-48b1-8d71-7748a732c824
 # ╟─a1b38b52-84f2-4c13-b2cf-d63e48aee2df
