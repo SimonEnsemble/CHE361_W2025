@@ -93,7 +93,7 @@ md"🍷 [1 pt] print the optimal volume of Syrah and volume of Grenache to inclu
 
 
 # ╔═╡ f8d24f48-f907-4d7c-9166-9b97831cec30
-md"🍷 [2 pt] visualize the optimal wine blend with a bar plot. include x- and y-axis labels with units and color the bars `darkred` for a wine theme."
+md"🍷 [1 pt] visualize the optimal wine blend with a bar plot. include x- and y-axis labels with units and color the bars `darkred` for a wine theme."
 
 # ╔═╡ 94bb6e34-6e2c-48b1-8d71-7748a732c824
 
